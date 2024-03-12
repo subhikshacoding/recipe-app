@@ -1,0 +1,41 @@
+.App{ 
+    height: 3000px; 
+    background-image:url("https://images.pexels.com/photos/4551832/pexels-photo-4551832.jpeg?cs=srgb&dl=pexels-roman-odintsov-4551832.jpg&fm=jpg"); 
+    margin-bottom: 150px;
+    } 
+    .search-form{ 
+    min-height: 10vh; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    } 
+    .search-bar{ 
+    width: 50%; 
+    border:none; 
+    padding: 10px; 
+    border-radius: 5px; 
+    box-shadow: 5px 5px #979b91; 
+    } 
+    .search-button{ 
+    background: #806b76; 
+    border: 5px solid white; 
+    border-radius: 8px; 
+    padding: 10px 20px; 
+    color: white; 
+    font-size: larger; 
+    margin: 0 0 0 10px; 
+    } 
+    
+    .search-button:hover { 
+    background-color:#f5d8de ; 
+    } 
+    
+    .recipes{
+        display: grid;
+        grid-template-columns: 2fr 2fr 2fr ;   
+        gap: 50px;     
+        width: 150px;
+        height: 100px;
+        margin-left: 150px;
+       
+    }
