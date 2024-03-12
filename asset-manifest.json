@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/recipe-app/static/css/main.90a28ad5.css",
+    "main.js": "/recipe-app/static/js/main.2f86ebf3.js",
+    "static/js/453.ed3810f9.chunk.js": "/recipe-app/static/js/453.ed3810f9.chunk.js",
+    "static/media/recipe10.jpg": "/recipe-app/static/media/recipe10.d3a36fdead6414e83eb5.jpg",
+    "static/media/recipe13.jpg": "/recipe-app/static/media/recipe13.b0430aec94cb713c5b13.jpg",
+    "static/media/recipe2.jpg": "/recipe-app/static/media/recipe2.a42f123bf034b72b96e8.jpg",
+    "static/media/recipe5.jpg": "/recipe-app/static/media/recipe5.315f5b5d8c99b63160cb.jpg",
+    "static/media/recipe14.jpg": "/recipe-app/static/media/recipe14.8306d0480473fdea95cc.jpg",
+    "static/media/recipe3.jpg": "/recipe-app/static/media/recipe3.b28c19e7def587c5b9d8.jpg",
+    "static/media/recipe1.jpg": "/recipe-app/static/media/recipe1.d1c3103cfe321d243b34.jpg",
+    "static/media/recipe12.jpg": "/recipe-app/static/media/recipe12.e91351611d2f37407c16.jpg",
+    "static/media/recipe15.jpg": "/recipe-app/static/media/recipe15.94207bd60ef6445cdd78.jpg",
+    "static/media/recipe11.jpg": "/recipe-app/static/media/recipe11.083fc3df1ad854cc69e8.jpg",
+    "static/media/recipe4.jpg": "/recipe-app/static/media/recipe4.b01b800866070aad6a52.jpg",
+    "index.html": "/recipe-app/index.html",
+    "main.90a28ad5.css.map": "/recipe-app/static/css/main.90a28ad5.css.map",
+    "main.2f86ebf3.js.map": "/recipe-app/static/js/main.2f86ebf3.js.map",
+    "453.ed3810f9.chunk.js.map": "/recipe-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90a28ad5.css",
+    "static/js/main.2f86ebf3.js"
+  ]
+}
